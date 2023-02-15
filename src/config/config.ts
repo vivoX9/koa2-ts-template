@@ -7,17 +7,17 @@ export const FIXED_KEY = {
 
     databaseOfTest: {
         dbName: "store",
-        host: "101.132.68.244",
+        host: "",
         user: "root",
-        password: "980225.wjj",
+        password: "",
         port: 3306
     }, //测试环境数据库-阿里云
 
     database: {
         dbName: "store",
-        host: "81.69.234.164",
+        host: "",
         user: "root",
-        password: "980225.wjj",
+        password: "",
         port: 3306
     } //正式环境数据库-腾讯云
 };
